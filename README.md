@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Piyush</h1>
 <h3 align="center">I'm a ML Developer and AI Enthusiast passionatly involved in research based projects.</h3>
 
