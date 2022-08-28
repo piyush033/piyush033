@@ -9,15 +9,15 @@
 
 - 🔭 I’m currently working on [Face Recognition Model](https://github.com/piyush033/Face-Recognition-Model)
 
-- 👨‍💻 All of my projects are available at [(Piyush)[https://github.com/piyush033?tab=repositories]]((Piyush)[https://github.com/piyush033?tab=repositories])
+- 👨‍💻 All of my projects are available at [https://github.com/piyush033?tab=repositories](https://github.com/piyush033?tab=repositories)
 
-- 📝 I regularly write articles on [(Piyush Suryavanshi)[https://medium.com/@piyushsuryavanshi033]]((Piyush Suryavanshi)[https://medium.com/@piyushsuryavanshi033])
+- 📝 I regularly write articles on [https://medium.com/@piyushsuryavanshi033](https://medium.com/@piyushsuryavanshi033)
 
 - 💬 Ask me about **AI, ML, DL and It's frameworks.**
 
 - 📫 How to reach me **piyushsuryavanhsi033@gmail.com**
 
-- 📄 Know about my experiences [(CV)[https://drive.google.com/file/d/1UvCSG9NAaF9_UY7Bhgz8quzcMh0_y42x/view?usp=sharing]]((CV)[https://drive.google.com/file/d/1UvCSG9NAaF9_UY7Bhgz8quzcMh0_y42x/view?usp=sharing])
+- 📄 Know about my experiences [https://drive.google.com/file/d/1UvCSG9NAaF9_UY7Bhgz8quzcMh0_y42x/view?usp=sharing](https://drive.google.com/file/d/1UvCSG9NAaF9_UY7Bhgz8quzcMh0_y42x/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
