@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Face Recognition Model](https://github.com/piyush033/Face-Recognition-Model)
+- 🔭 I’m currently working on [MRI Dataset Brain Disorders Detection Model](https://github.com/piyush033/MRI-Dataset-Brain-Disorders-Detection-Model)
 
 - 👨‍💻 All of my projects are available at [https://github.com/piyush033?tab=repositories](https://github.com/piyush033?tab=repositories)
 
