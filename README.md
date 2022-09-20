@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [MRI Dataset Brain Disorders Detection Model](https://github.com/piyush033/MRI-Dataset-Brain-Disorders-Detection-Model)
 
-- 👨‍💻 All of my projects are available at [https://github.com/piyush033?tab=repositories](https://github.com/piyush033?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github - piyush033 Repositories](https://github.com/piyush033?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@piyushsuryavanshi033](https://medium.com/@piyushsuryavanshi033)
+- 📝 I regularly write articles on [@piyushsuryavanshi033](https://medium.com/@piyushsuryavanshi033)
 
 - 💬 Ask me about **AI, ML, DL and It's frameworks.**
 
