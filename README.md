@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Piyush</h1>
 <h3 align="center">I'm a ML Developer and AI Enthusiast passionatly involved in research based projects.</h3>
+<img align="right" alt="Coding" width="400" src="https://rapidapi.com/blog/github-api-profile-automate-your-github-workflow/.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush033&label=Profile%20views&color=0e75b6&style=flat" alt="piyush033" /> </p>
 
