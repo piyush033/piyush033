@@ -9,7 +9,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/456/275/datas/original.gif">
 
-- 🔭 I’m currently working on [MRI Dataset Brain Disorders Detection Model](https://github.com/piyush033/MRI-Dataset-Brain-Disorders-Detection-Model)
+- 🔭 I’m currently working on [Traffic light colour detection](https://github.com/piyush033/Traffic_light_colour_detection_DRDO)
 
 - 👨‍💻 All of my projects are available at [Github - piyush033 Repositories](https://github.com/piyush033?tab=repositories)
 
