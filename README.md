@@ -26,7 +26,7 @@
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-![image](https://user-images.githubusercontent.com/100412728/223766915-d6bca81a-4a72-409d-9a8d-a1ce35853909.png)
+
 ## <image> <img src = "https://user-images.githubusercontent.com/100412728/223766915-d6bca81a-4a72-409d-9a8d-a1ce35853909.png" width = 50px>  </picture> Connect with me
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
