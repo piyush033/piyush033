@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>  </picture> About me
+
 <img align="right" alt="Coding" width="300" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/456/275/datas/original.gif">
 
 - 🔭 I’m currently working on [Traffic light colour detection](https://github.com/piyush033/Traffic_light_colour_detection_DRDO)
