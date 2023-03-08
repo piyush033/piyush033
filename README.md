@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1UvCSG9NAaF9_UY7Bhgz8quzcMh0_y42x/view?usp=sharing](https://drive.google.com/file/d/1UvCSG9NAaF9_UY7Bhgz8quzcMh0_y42x/view?usp=sharing)
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
