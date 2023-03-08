@@ -27,7 +27,8 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+## <image> <img src = "https://user-images.githubusercontent.com/100412728/223766217-9fe9686a-8fbe-4e50-8112-d66be89cb3a1.png" width = 50px>  </picture> Connect with me
+<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 <a href="https://linkedin.com/in/piyush-suryavanshi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-suryavanshi/" height="30" width="40" /></a>
 <a href="https://kaggle.com/piyushsuryavanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="piyushsuryavanshi" height="30" width="40" /></a>
