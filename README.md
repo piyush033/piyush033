@@ -27,7 +27,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## <image> <img src = "https://user-images.githubusercontent.com/100412728/223766915-d6bca81a-4a72-409d-9a8d-a1ce35853909.png" width = 50px>  </picture> Connect with me
+## <image> <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fstickers%2Fsearch%2Fconnection%2Bbonus&psig=AOvVaw31myoluvSOODO-JsY5360e&ust=1678378041324000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMi-vsnbzP0CFQAAAAAdAAAAABAY" width = 50px>  </picture> Connect with me
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 <a href="https://linkedin.com/in/piyush-suryavanshi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-suryavanshi/" height="30" width="40" /></a>
